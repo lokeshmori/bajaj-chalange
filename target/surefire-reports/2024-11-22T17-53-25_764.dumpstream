@@ -1,0 +1,5 @@
+# Created at 2024-11-22T17:53:25.910
+Boot Manifest-JAR contains absolute paths in classpath 'E:\lokesh\workspace\explore\com\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
