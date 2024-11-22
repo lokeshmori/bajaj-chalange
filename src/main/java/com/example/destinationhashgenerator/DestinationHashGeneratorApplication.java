@@ -1,4 +1,4 @@
-package com.bajaj;
+package com.example.destinationhashgenerator;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -9,7 +9,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Random;
 
-public class App {
+public class DestinationHashGeneratorApplication {
 
     public static void main(String[] args) {
         // Validate arguments
